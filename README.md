@@ -70,6 +70,8 @@ Fill in codes delivered with sensors as an array in "registereddevices"
 Example: 
 registereddevices = ['1564DF', '1234DF', '3456GF', '2344DS']
 
+from command line: sudo python3 tpsm.py 
+
 There are many of the tpms sensors on the market, please see the JPG for the model that I used. 
 I believe that it is usually refered to as Bluetooth 4.0 TPMS.
 Other sensors could work as well depending on the output given. 
