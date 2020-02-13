@@ -1,5 +1,6 @@
 # tpms_pi_bluetooth
 Tire pressure monitor sensor for Raspberry Pi
+With help from Tatsuya-8888 / https://qiita.com/Tatsuya-8888/items/756dce5270966d4bf460 (Japanese)
 
 An example of a while loop to get info from TPMS sensor
 When using bluetoothctl the sensor outputs these strings:
